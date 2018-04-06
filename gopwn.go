@@ -13,6 +13,7 @@ const (
 	safe_path = "C:\\Users\\Public\\Intel\\Logs"
 	passkey   = ""
 	userkey   = ""
+	author    = "sn33r2"
 )
 
 //get targetip files
